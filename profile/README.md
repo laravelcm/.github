@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/caneco/laravel-country-logomarks/blob/main/src/cm/logo.svg" height="250" />
+    <img src="./art/laravelio-logo-lg" height="250" />
 </p>
 
 # Welcome!
